@@ -25,7 +25,7 @@
         <entry file="file://$PROJECT_DIR$/hello">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.028121484">
-              <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+              <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -185,7 +185,7 @@
     <entry file="file://$PROJECT_DIR$/hello">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.028121484">
-          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
           <folding />
         </state>
       </provider>
